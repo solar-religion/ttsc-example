@@ -1,0 +1,30 @@
+{
+    "name": "ttsc-examples",
+    "version": "0.0.1",
+    "description": "ttsc examples",
+    "scripts": {
+        "build.ttsc": "cd src && ttsc"
+    },
+    "private": true,
+    "author": "sunrabbit123",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/cevek/ttypescript.git"
+    },
+    "license": "MIT",
+    "homepage": "https://github.com/cevek/ttypescript/packages/ttypescript-examples/#readme",
+    "keywords": [
+        "typescript",
+        "wrapper",
+        "ttypescript",
+        "examples",
+        "plugin",
+        "config"
+    ],
+    "dependencies": {
+        "ttsc": "^0.0.1"
+    },
+    "devDependencies": {
+        "ts-node": "^10.9.1"
+    }
+}
